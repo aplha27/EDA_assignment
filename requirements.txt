@@ -1,0 +1,12 @@
+pandas
+numpy
+torch
+transformers
+openpyxl
+scikit-learn
+matplotlib
+seaborn
+textblob 
+nltk 
+spacy 
+readability-score
